@@ -2,7 +2,7 @@
 ![image](https://github.com/vrnks/WebNotebook/assets/130937932/3940edac-fa01-49d4-93c6-6df5bc4cd364)
 
 Інструкція встановлення: 
-- Клонуйте репозиторій проекту з GitHub: 
+- Клонуйте репозиторій проекту з GitHub: https://github.com/vrnks/WebNotebook
 - Встановіть PostgreSQL і створіть базу даних для проекту.
 - Заповніть файл .env
 - Запустіть міграцію бази даних для створення необхідних таблиць: python manage.py makemigrations; python manage.py migrate. Запустіть сервер розробки Django: python manage.py runserver Запустіть додаток через веб-браузер за адресою http://localhost:8000/.
